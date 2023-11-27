@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 body{
     height: 100vh;
 }
@@ -20,7 +21,7 @@ main{
 main::before {
     content: "";
     background-color: black;
-    opacity: 0.7; /* Adjust the opacity as needed */
+    opacity: 0.7;
     position: absolute;
     top: 0;
     right: 0;
@@ -29,41 +30,39 @@ main::before {
     z-index: -1;
 }
 
-#top{
+main #top{
     /* background-color: aqua; */
     /* border: 2px solid black; */
     padding: 0 15px;
-   
 }
 
-#top ul{
+main #top ul{
     display: flex;
     justify-content: space-evenly;
 }
 
-#top ul li{
+main #top ul li{
     list-style-type: none;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-#top ul li a{
+main #top ul li a{
     text-decoration: none;
     color: white;
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-  
 }
 
-#top li a img{
+main #top li a img{
     height: 60px;
     width: 70px;
 }
 
-#top li a p{
+main #top li a p{
     text-align: center;
 }
 
@@ -88,7 +87,6 @@ main::before {
     padding: 30px;
     margin: 90px 0;
     margin-top: 100px;
-    
 }
 
 .links ul{
@@ -123,7 +121,6 @@ main::before {
 
 .inthere ul li{
     list-style-type: none;
-
 }
 
 nav{
@@ -131,7 +128,7 @@ nav{
 }
 
 .mainnav{
-    width: 70%;
+    width: 80%;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
@@ -140,12 +137,13 @@ nav{
 
 section{
     color: white;
-    height: 35vh;
+    height: 45vh;
+    width: max-content;
     text-align: center;
-    padding: 40px;
+    padding: 35px;
     margin: 20px;
     background-color: #1E1B26;
-    border-radius: 8px;
+    border-radius: 10px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -153,9 +151,8 @@ section{
 
 .heading{
     border-bottom: 2px solid green;
-    padding-bottom: 1px;
-    color: green;
-    
+    padding-bottom: 0.3px;
+    color: green;   
 }
 
 .explore a{
@@ -165,13 +162,12 @@ section{
 
 .explore a{
     text-decoration: none;
-    color: green;
-    
+    color: green;   
 }
 
 .heading1{
     border-bottom: 2px solid blue;
-    padding-bottom: 1px;
+    padding-bottom: 0.3px;
     color: blue;
 }
 
@@ -183,12 +179,11 @@ section{
 .explore1 a{
     text-decoration: none;
     color: blue;
-    
 }
 
 .heading2{
     border-bottom: 2px solid violet;
-    padding-bottom: 1px;
+    padding-bottom: 0.3px;
     color: violet;
 }
 
@@ -199,13 +194,12 @@ section{
 
 .explore2 a{
     text-decoration: none;
-    color: violet;
-    
+    color: violet;   
 }
 
 .heading3{
     border-bottom: 2px solid #275664;
-    padding-bottom: 1px;
+    padding-bottom: 0.3px;
     color: #275664;
 }
 
@@ -216,13 +210,12 @@ section{
 
 .explore3 a{
     text-decoration: none;
-    color: #275664;
-    
+    color: #275664; 
 }
 
 .heading4{
     border-bottom: 2px solid yellowgreen;
-    padding-bottom: 1px;
+    padding-bottom: 0.3px;
     color: yellowgreen;
 }
 
@@ -233,13 +226,12 @@ section{
 
 .explore4 a{
     text-decoration: none;
-    color: yellowgreen;
-    
+    color: yellowgreen; 
 }
 
 .heading5{
     border-bottom: 2px solid orange;
-    padding-bottom: 1px;
+    padding-bottom: 0.3px;
     color: orange;
 }
 
@@ -250,13 +242,12 @@ section{
 
 .explore5 a{
     text-decoration: none;
-    color: orange;
-    
+    color: orange;  
 }
 
 .heading6{
     border-bottom: 2px solid #429BB2;
-    padding-bottom: 0.5px;
+    padding-bottom: 0.3px;
     color: #429BB2;
 }
 
@@ -267,7 +258,5 @@ section{
 
 .explore6 a{
     text-decoration: none;
-    color: #429BB2;
-    
+    color: #429BB2;  
 }
-

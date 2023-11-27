@@ -12,8 +12,8 @@ body{
 #top{
     /* background-color: aqua; */
     /* border: 2px solid black; */
-    padding: 0 15px;
-   
+    /* padding: 0 15px; */
+    margin-top: 30px;
 }
 
 #top ul{
@@ -49,6 +49,7 @@ body{
 
 .topp{
     text-align: center;
+    margin-bottom: 40px;
 }
 
 .topp h1{
@@ -61,30 +62,45 @@ body{
 
 .topp p{
     font-size: 20px;
-
+    width: 80%;
+    margin: auto;
 }
 
-.main .writing{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-}
+
 
 .main{
     /* border: 1px solid red; */
     font-size: 20px;
     margin: auto;
+    margin-bottom: 60px;
     display: grid;
     grid-template-columns: 1.5fr 1fr;
     grid-column-gap: 150px;
     text-align: center;
     align-items: center;
     width: 80%;
-    height: 30vh;
+}
+
+.main .writing{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* text-align: center; */
+}
+
+.main .writing h2{
+    color: #A47122;
+}
+
+.main .picture img{
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;
 }
 
 .GOT{
+    width: 80%;
+    margin: auto;
     margin-top: 90px;
     /* border: 1px solid blue; */
     text-align: center;
@@ -111,7 +127,7 @@ body{
 }
 
 
-.main2  .excellence h3{
+.main2  .excellence h2{
     color: blue;
     padding-bottom: 5px;
     border-bottom: 2px blue solid;
@@ -124,7 +140,7 @@ body{
     text-align: center;
 }
 
-.main2 .innovative h3{
+.main2 .innovative h2{
     color: green;
     padding-bottom: 5px;
     border-bottom: 2px green solid;
@@ -154,7 +170,7 @@ body{
     display: flex;
     justify-content: center;
     margin: auto;
-    border: 1px green solid;
+    /* border: 1px green solid; */
 }
 
 .headd{
@@ -168,10 +184,10 @@ body{
     display: flex;
     flex-direction: column;
     text-align: center;
-    margin-right: 200px;
+    margin-right: 250px;
     background-color: #1E1B26;
     border-radius: 10px;
-    padding: 10px;
+    padding: 25px;
 }
 
 .administration{
@@ -180,6 +196,17 @@ body{
     text-align: center;
     background-color: #1E1B26;
     border-radius: 10px;
-    padding: 10px;
+    padding: 25px;
 }
 
+.staff h2{
+    color: violet;
+    border-bottom: 1px solid violet;
+    padding-bottom: 1px;
+}
+
+.administration h2{
+    color: aqua;
+    border-bottom: 1px solid aqua;
+    padding-bottom: 1px;
+}
