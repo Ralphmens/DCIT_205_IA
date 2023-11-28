@@ -1,5 +1,4 @@
 # A RE-DESIGN OF THE COMPUTER SCIENCE DEPARTMENT'S WEBSITE.
----
 ## This is a redesign of University of Ghana's Computer Science Department's website.
 Welcome to our comprehensive Computer Science Department Information Hub! Our website is dedicated to providing visitors with all the essential information related to the Computer Science Department. Whether you are a prospective student exploring courses, an applicant seeking admission details, or a current student looking for resources, you'll find everything you need right here.
 
