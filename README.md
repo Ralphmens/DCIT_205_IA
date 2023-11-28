@@ -72,7 +72,7 @@ Finally, start the project. This could involve running a server, starting a deve
 
 ## Screenshots of Pages
 ![Home1_Page](Pictures/Home1.png)
-![Home2_Page](Pictures/Home1.png)
+![Home2_Page](Pictures/Home2.png)
 ![About_Us_Page1](Pictures/About1.png)
 ![About_Us_Page2](Pictures/About2.png)
 ![About_Us_Page2](Pictures/About3.png)
