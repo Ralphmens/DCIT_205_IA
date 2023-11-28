@@ -1,0 +1,105 @@
+body{
+    background-color: #05020D;
+    color: white;
+}
+
+#top{
+    /* background-color: aqua; */
+    /* border: 2px solid black; */
+    /* padding: 0 15px; */
+    margin-top: 30px;
+}
+
+#top ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#top ul li{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#top ul li a{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  
+}
+
+#top li a img{
+    height: 60px;
+    width: 70px;
+}
+
+#top li a p{
+    text-align: center;
+}
+
+.topp{
+    text-align: center;
+}
+
+.topp p{
+    width: 40%;
+    margin: auto;
+}
+
+.info{
+    width: 60%;
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.cinfo{
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+
+.cinfo .numbers{
+    display: flex;
+    margin-right: 90px;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+
+.cinfo .numbers .num{
+    color: aqua;
+    margin-right: 30px;
+}
+
+.mai{
+    color: aqua;
+}
+
+.heed{
+    color: aqua;
+    text-align: center;
+}
+
+form{
+    width: 70%;
+    margin: auto;
+    justify-content: center;
+}
+
+.inp{
+    
+}
+
+form input{
+    padding: 15px;
+    background-color: antiquewhite;
+    width: 250px;
+    justify-items: center;
+}

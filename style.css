@@ -127,8 +127,8 @@ nav{
     background-color: #05020D;
 }
 
-.mainnav{
-    width: 80%;
+#mainnav{
+    width: 70%;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
@@ -137,7 +137,7 @@ nav{
 
 section{
     color: white;
-    height: 45vh;
+    height: 40vh;
     width: max-content;
     text-align: center;
     padding: 35px;

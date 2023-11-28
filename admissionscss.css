@@ -3,10 +3,7 @@ body{
 }
 
 #top{
-    /* background-color: aqua; */
-    /* border: 2px solid black; */
     padding: 0 15px;
-   
 }
 
 #top ul{
@@ -44,26 +41,22 @@ body{
     width: 60%;
     /* height: 100vh; */
     margin: auto;
-    border: 1px solid red;
 }
 
 .body .top h1{
-    color: white;
-    border: 1px blue solid;
+    color: #275664;
     text-align: center;
     margin-top: 30px;
 
 }
 
 .body .top h2{
-    color: white;
-    border: 1px blue solid;
+    color: #275664;
     text-align: center;
 }
 
 .body .top p{
     color: white;
-    border: 1px blue solid;
     text-align: center;
 }
 
@@ -71,6 +64,31 @@ body{
     color: white;
     display: flex;
     align-items: center;
+    justify-content: center;
+}
+
+.us .writing{
+    margin-right: 150px;
+}
+
+.us .writing h1{
+    color: #275664;
+}
+
+.us .image img{
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;
+}
+ 
+.lb1 .image2{
+    margin-right: 90px;
+}
+
+.lb1 .image2 img{
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;
 }
 
 .addproc{
@@ -78,10 +96,70 @@ body{
     text-align: center;
 }
 
-.lb1{
-    display: flex;
+.addproc h1{
+    color: #275664;
 }
 
-.list{
-    color: blueviolet;
+.addproc p{
+    width: 60%;
+    margin: auto;
+}
+
+.lb1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list h2{
+    color: #275664;
+}
+
+.list ul{
+    color: white;
+    list-style-type: none;
+}
+
+.aa{
+    color: #05020D;
+}
+
+.list .buttons{
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.buttons a{
+    justify-items: center;
+    margin-right: 25px;
+    color: white;
+    background-color: #275664;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.last h2{
+    color: #275664;
+}
+
+.last{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 40px;
+    align-items: center;
+}
+
+.last .writ{
+    margin-right: 30px;
+}
+
+.last .writ ul{
+    list-style-type: none;
+}
+
+.pic2 img{
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;  
 }
