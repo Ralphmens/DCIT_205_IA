@@ -64,3 +64,24 @@ Certain projects, especially those using frameworks, may require a build step. T
 ### Start the Project:
 Finally, start the project. This could involve running a server, starting a development environment, or running specific scripts:
 'npm run'
+
+## Author Information
+**Name: Raphael Ayeh Mensah**
+**ID: 11016071**
+
+## Screenshots of Pages
+![Home1_Page](Pictures/Home1.png)
+![Home2_Page](Pictures/Home1.png)
+![About_Us_Page1](Pictures/About1.png)
+![About_Us_Page2](Pictures/About2.png)
+![About_Us_Page2](Pictures/About3.png)
+![Contact_Us_Page1](Pictures/Contact1.png)
+![Contact_Us_Page2](Pictures/Contact2.png)
+![Programs_Page1](Pictures/Programs1.png)
+![Programs_Page2](Pictures/Programs2.png)
+![Programs_Page3](Pictures/Programs3.png)
+![Admissions_Page1](Pictures/Admissions1.png)
+![Admissions_Page2](Pictures/Admissions2.png)
+![Admissions_Page3](Pictures/Admissions3.png)
+
+## Learnings from Project.
