@@ -87,10 +87,11 @@ Finally, start the project. This could involve running a server, starting a deve
 
 ## Learnings from Project.
 As a beginner in web development entering this project, I embarked on a week-long exploration to grasp the fundamentals of web development.I used the first week of the period given me for this exploration. This initial phase was dedicated to understanding indepthly, web development and gaining insights into its various components. Armed with this newfound knowledge, I devoted the final week of the allotted period to conceptualize and execute my project.
+
 ### Here are the list of frameworks I learnt during the first week of the period.
 1. HyperText Markup Language
 2. Cascading Style Sheet
-I also learnt how to properly use concepts such as flexbox, CSS grid, Z-indexing, positioning 
+*I also learnt how to properly use concepts such as flexbox, CSS grid, Z-indexing, positioning* 
 
 Definitely, I would face challenges as it is my very first experience with web development
 ### Here are the list of challenges I faced
