@@ -85,3 +85,20 @@ Finally, start the project. This could involve running a server, starting a deve
 ![Admissions_Page3](Pictures/Admissions3.png)
 
 ## Learnings from Project.
+As a beginner in web development entering this project, I embarked on a week-long exploration to grasp the fundamentals of web development.I used the first week of the period given me for this exploration. This initial phase was dedicated to understanding indepthly, web development and gaining insights into its various components. Armed with this newfound knowledge, I devoted the final week of the allotted period to conceptualize and execute my project.
+### Here are the list of frameworks I learnt during the first week of the period.
+1. HyperText Markup Language
+2. Cascading Style Sheet
+I also learnt how to properly use concepts such as flexbox, CSS grid, Z-indexing, positioning 
+
+Definitely, I would face challenges as it is my very first experience with web development
+### Here are the list of challenges I faced
+1. I had problems with grasping concepts like flexbox and CSS grid.
+2. I had challenges coming up with my UI for the website.
+3. Working with git and github was very confusing as in my opinion, is very abstract. You never really know what is happening "behind" everything.
+
+Amidst all these challenges, I was able to produce something and I am impressed with what I was able to do. I loved that it challenged me a lot and my passion for web dev grew as time progressed.
+
+### Improvements I would make in the future
+This isn't where I am going to end. I wish to add more functionality to the website, make it responsive, and develop it into a fully funtioning website, with backend.
+I would also improve upon my UI.   
